@@ -1,0 +1,23 @@
+body {
+  background-color: #FFFFFF; /* Warna Putih */
+  font-family: Arial, sans-serif; /* jenis huruf yang bersih dan mudah dibaca */
+  color : #000000; /* Warna teks utama (Hitam) */
+}
+.kartu-profil {
+   width: 300px;
+   margin: 50px; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
+   padding: 20px;
+   background-color: White;
+   border-radius: 15px; /* Membuat sudut menjadi melengkung */
+   box-shadow; 0 4px 8px rgba(0,0,0,0,1); /*Efek bayangan */
+}
+|
+
+.Kartu-profil img {
+   width: 150px;
+   border-radius: 50%; /* Trik untuk membuat gambar persegimenjadi lingkaran sempurna */
+}
+.Kartu-profil {
+    /* ... (kode dari slide sebelumnya) ... */
+    Text-align: center: /* Menengahkan semua teks di dalam kartu */
+}
